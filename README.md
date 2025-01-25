@@ -1,4 +1,4 @@
-# Find-the-first-node-of-loop-in-linked-list
+# Find-the-first-node-of-loop-in-linked-list gfg
 Given a head of the singly linked list. If a loop is present in the list then return the first node of the loop else return NULL.
 
 Custom Input format:
